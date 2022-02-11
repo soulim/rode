@@ -22,7 +22,8 @@ func init() {
 	opts = options{}
 	cmd = flag.NewFlagSet(os.Args[0], flag.ExitOnError)
 
-	cmd.BoolVar(&opts.showVersion, "version", false, "print version")
+	cmd.BoolVar(&opts.showVersion, "version", false, "")
+	cmd.BoolVar(&opts.showVersion, "v", false, "")
 
 	cmd.Usage = usage
 }
@@ -32,11 +33,8 @@ func usage() {
 	fmt.Fprintf(cmd.Output(), "USAGE\n\n")
 	fmt.Fprintf(cmd.Output(), "  $ %s [OPTIONS]\n\n", os.Args[0])
 	fmt.Fprintf(cmd.Output(), "OPTIONS\n\n")
-	cmd.PrintDefaults()
-	fmt.Fprintf(cmd.Output(), "\n")
-	fmt.Fprintf(cmd.Output(), "EXAMPLES\n\n")
-	fmt.Fprintf(cmd.Output(), "  # with default options\n")
-	fmt.Fprintf(cmd.Output(), "  $ %s\n\n", os.Args[0])
+	fmt.Fprintf(cmd.Output(), "  -v, --version  Print version information\n")
+	fmt.Fprintf(cmd.Output(), "  -h, --help     Print this help\n")
 }
 
 func main() {
