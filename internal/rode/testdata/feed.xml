@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Code && Beyond]]></title>
+		<description><![CDATA[Code &amp;&amp; Beyond is a weekly podcast with Pablo and Alex, two software engineers with more than 35 years of professional experience combined. We talk about creativity, productivity, problem solving, tools, culture, and anything beyond, but still related to the daily life of a software developer.]]></description>
+		<link>https://codeandbeyond.rocks</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg</url>
+			<title>Code &amp;&amp; Beyond</title>
+			<link>https://codeandbeyond.rocks</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sat, 19 Feb 2022 08:50:33 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/5cd408f8/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Alexander Sulim and Pablo Vicente]]></author>
+		<copyright><![CDATA[Alexander Sulim and Pablo Vicente]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Alexander Sulim and Pablo Vicente</itunes:author>
+		<itunes:summary>Code &amp;amp;&amp;amp; Beyond is a weekly podcast with Pablo and Alex, two software engineers with more than 35 years of professional experience combined. We talk about creativity, productivity, problem solving, tools, culture, and anything beyond, but still related to the daily life of a software developer.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Alexander Sulim and Pablo Vicente</itunes:name>
+			<itunes:email>codeandbeyond@protonmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+		<item>
+			<title><![CDATA[Code && Chess]]></title>
+			<description><![CDATA[<p>A very special guest joins Alex and Pablo in this episode of Code &amp;&amp; Beyond. José Doval (Pepe) could be best described as a chess player and teacher who writes code for a living, two passions that have a lot more in common than one would think.&nbsp;</p>
+<p>Where do coding and chess intersect? From machines that play chess to how chess skills can be applied in software engineering, this is an eye-opening discussion that you won't want to miss.</p>
+<p>Show notes:</p>
+<ul>
+ <li>Pepe Doval on Twitter, https://twitter.com/pepellou</li>
+ <li>Pepe Doval on Twitch, https://www.twitch.tv/pepellou</li>
+ <li>Pepe Doval on GitHub, https://github.com/pepellou</li>
+ <li>Chessable, https://www.chessable.com</li>
+ <li>"How Life Imitates Chess" (book), https://en.wikipedia.org/wiki/How_Life_Imitates_Chess</li>
+ <li>AlphaZero is a computer program developed by artificial intelligence research company DeepMind to master the games of chess, shogi and go. See https://en.wikipedia.org/wiki/AlphaZero</li>
+ <li>MuZero is a computer program developed by artificial intelligence research company DeepMind to master games without knowing their rules. See https://en.wikipedia.org/wiki/MuZero.</li>
+ <li>Correspondence chess is chess played by various forms of long-distance correspondence, traditionally through the postal system. See https://en.wikipedia.org/wiki/Correspondence_chess</li>
+</ul>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by Twisterium from </em><a href="https://pixabay.com/users/twisterium-20030970/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Code--Chess-e1du6f2</link>
+			<guid isPermaLink="false">0cd97998-cc97-4877-8685-119eaf6d0862</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Fri, 11 Feb 2022 19:11:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/47175586/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-11%2F0435587a-d264-1def-a54d-64c90547820a.mp3" length="40912276" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;A very special guest joins Alex and Pablo in this episode of Code &amp;amp;&amp;amp; Beyond. José Doval (Pepe) could be best described as a chess player and teacher who writes code for a living, two passions that have a lot more in common than one would think.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Where do coding and chess intersect? From machines that play chess to how chess skills can be applied in software engineering, this is an eye-opening discussion that you won&apos;t want to miss.&lt;/p&gt;
+&lt;p&gt;Show notes:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Pepe Doval on Twitter, https://twitter.com/pepellou&lt;/li&gt;
+ &lt;li&gt;Pepe Doval on Twitch, https://www.twitch.tv/pepellou&lt;/li&gt;
+ &lt;li&gt;Pepe Doval on GitHub, https://github.com/pepellou&lt;/li&gt;
+ &lt;li&gt;Chessable, https://www.chessable.com&lt;/li&gt;
+ &lt;li&gt;&quot;How Life Imitates Chess&quot; (book), https://en.wikipedia.org/wiki/How_Life_Imitates_Chess&lt;/li&gt;
+ &lt;li&gt;AlphaZero is a computer program developed by artificial intelligence research company DeepMind to master the games of chess, shogi and go. See https://en.wikipedia.org/wiki/AlphaZero&lt;/li&gt;
+ &lt;li&gt;MuZero is a computer program developed by artificial intelligence research company DeepMind to master games without knowing their rules. See https://en.wikipedia.org/wiki/MuZero.&lt;/li&gt;
+ &lt;li&gt;Correspondence chess is chess played by various forms of long-distance correspondence, traditionally through the postal system. See https://en.wikipedia.org/wiki/Correspondence_chess&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by Twisterium from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/users/twisterium-20030970/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2548</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>25</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Building an effective development environment]]></title>
+			<description><![CDATA[<p>As software engineers, we rely on a lot of tools: editors, &nbsp;IDEs, linters, version control, terminal emulators, virtual machines... &nbsp;Tools we buy, download for free, or build ourselves.</p>
+<p>They define – or at least affect – the quality of what we produce. They boost our delivery speed and automate boring tasks but sometimes, we must admit, they also drive us crazy. What is clear is that, by using tools every single day, we have come to depend on them.</p>
+<p>In this episode of Code &amp;&amp; Beyond, we talk about our favourite tools and try to define how we would build the most effective development environment with them.</p>
+<p>Starring a special guest: <a href="https://github.com/juanibiapina" rel="noreferrer nofollow noopener" target="_blank">Juan Ibiapina</a>, who has built one of the most advanced development environments.</p>
+<p>Notes:</p>
+<p>- <a href="https://github.com/alacritty/alacritty" rel="noreferrer nofollow noopener" target="_blank">Alacritty</a> - a fast, cross-platform, OpenGL terminal emulator.&nbsp;</p>
+<p>- <a href="https://nixos.org/" rel="noreferrer nofollow noopener" target="_blank">NixOS</a> is based on Nix, a purely functional package management system.&nbsp;</p>
+<p>- <a href="https://github.com/junegunn/fzf" rel="noreferrer nofollow noopener" target="_blank">fzf</a> is a general-purpose command-line fuzzy finder.&nbsp;</p>
+<p>- <a href="https://github.com/juanibiapina/dotfiles/" rel="noreferrer nofollow noopener" target="_blank">Juan's dotfiles.</a> - <a href="https://github.com/jose-elias-alvarez/null-ls.nvim" rel="noreferrer nofollow noopener" target="_blank">null-ls.nvim</a>&nbsp;</p>
+<p>- <a href="https://starship.rs/" rel="noreferrer nofollow noopener" target="_blank">Starship</a> - the minimal, blazing-fast, and infinitely customizable prompt for any shell!&nbsp;</p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by Twisterium from </em><a href="https://pixabay.com/users/twisterium-20030970/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Building-an-effective-development-environment-e1d057v</link>
+			<guid isPermaLink="false">44dc75b3-534b-4a42-b9cc-e4c16a38108e</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Tue, 18 Jan 2022 18:00:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/46191295/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-15%2F272a8662-bf9d-e29c-d15f-6aef58335948.mp3" length="36478197" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;As software engineers, we rely on a lot of tools: editors, &amp;nbsp;IDEs, linters, version control, terminal emulators, virtual machines... &amp;nbsp;Tools we buy, download for free, or build ourselves.&lt;/p&gt;
+&lt;p&gt;They define – or at least affect – the quality of what we produce. They boost our delivery speed and automate boring tasks but sometimes, we must admit, they also drive us crazy. What is clear is that, by using tools every single day, we have come to depend on them.&lt;/p&gt;
+&lt;p&gt;In this episode of Code &amp;amp;&amp;amp; Beyond, we talk about our favourite tools and try to define how we would build the most effective development environment with them.&lt;/p&gt;
+&lt;p&gt;Starring a special guest: &lt;a href=&quot;https://github.com/juanibiapina&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;Juan Ibiapina&lt;/a&gt;, who has built one of the most advanced development environments.&lt;/p&gt;
+&lt;p&gt;Notes:&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://github.com/alacritty/alacritty&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;Alacritty&lt;/a&gt; - a fast, cross-platform, OpenGL terminal emulator.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://nixos.org/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;NixOS&lt;/a&gt; is based on Nix, a purely functional package management system.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://github.com/junegunn/fzf&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;fzf&lt;/a&gt; is a general-purpose command-line fuzzy finder.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://github.com/juanibiapina/dotfiles/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;Juan&apos;s dotfiles.&lt;/a&gt; - &lt;a href=&quot;https://github.com/jose-elias-alvarez/null-ls.nvim&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;null-ls.nvim&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;https://starship.rs/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;Starship&lt;/a&gt; - the minimal, blazing-fast, and infinitely customizable prompt for any shell!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by Twisterium from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/users/twisterium-20030970/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2271</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>24</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[From Rocks to Code: How a Geologist Became a Software Developer]]></title>
+			<description><![CDATA[<p>On this episode of Code &amp;&amp; Beyond, Alex and Pablo welcome a new special guest (and the latter's namesake): Pablo Hernández. A former geologist, Pablo became a software developer a few years ago.</p>
+<p>Listen as he talks about how he changed careers successfully and answers questions like:</p>
+<ul>
+ <li>What does it take to change your career path and get into coding?</li>
+ <li>Where and how to start a new career as a software developer?</li>
+ <li>How to land your first job in a tech team?</li>
+</ul>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by Twisterium from </em><a href="https://pixabay.com/users/twisterium-20030970/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/From-Rocks-to-Code-How-a-Geologist-Became-a-Software-Developer-e1bga7m</link>
+			<guid isPermaLink="false">87024762-154b-4442-8ea2-2a9a39b5cd06</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Thu, 16 Dec 2021 09:33:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/44623542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-9%2F6eb99549-25a2-5783-a84d-df1fa69ef975.mp3" length="42944694" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;On this episode of Code &amp;amp;&amp;amp; Beyond, Alex and Pablo welcome a new special guest (and the latter&apos;s namesake): Pablo Hernández. A former geologist, Pablo became a software developer a few years ago.&lt;/p&gt;
+&lt;p&gt;Listen as he talks about how he changed careers successfully and answers questions like:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;What does it take to change your career path and get into coding?&lt;/li&gt;
+ &lt;li&gt;Where and how to start a new career as a software developer?&lt;/li&gt;
+ &lt;li&gt;How to land your first job in a tech team?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by Twisterium from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/users/twisterium-20030970/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2675</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:episode>23</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Quality in software development]]></title>
+			<description><![CDATA[<p>In this episode of Code &amp;&amp; Beyond, Pablo and Alex discuss the topic of quality in software development. How much is "good enough"? How can you maintain the quality of tests in your projects? What tools can be used to automate quality assurance?</p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by Twisterium from </em><a href="https://pixabay.com/users/twisterium-20030970/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Quality-in-software-development-e1au20m</link>
+			<guid isPermaLink="false">3470c8b3-4c71-4277-966f-465c24bc3ffe</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Tue, 30 Nov 2021 08:24:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/44025302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-28%2F68339a3e-021b-f0c2-9fff-77dc9840dcd7.mp3" length="19355778" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of Code &amp;amp;&amp;amp; Beyond, Pablo and Alex discuss the topic of quality in software development. How much is &quot;good enough&quot;? How can you maintain the quality of tests in your projects? What tools can be used to automate quality assurance?&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by Twisterium from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/users/twisterium-20030970/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1207</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:episode>22</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Teamwork]]></title>
+			<description><![CDATA[In this episode of Code && Beyond, Pablo and Alex touch on the topic of teamwork. What is the optimal size of a team? What kind of challenges are facing many teams? What structure should have an effective team? These and other questions are discussed in this episode.
+
+
+Notes:
+- Async is a composable asynchronous I/O framework for Ruby based on nio4r and timers.
+
+Have any feedback? Send us an email at codeandbeyond@protonmail.com or leave a voice message on Anchor.
+
+---
+Music by Twisterium from Pixabay.
+
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Teamwork-e1aiios</link>
+			<guid isPermaLink="false">c52aa3cc-bb71-4f86-82a0-ca44fccaface</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Mon, 22 Nov 2021 12:18:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/43649244/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-20%2Ff74d6254-2cff-1e4a-24f4-d825289a954a.mp3" length="21653698" type="audio/mpeg"/>
+			<itunes:summary>In this episode of Code &amp;&amp; Beyond, Pablo and Alex touch on the topic of teamwork. What is the optimal size of a team? What kind of challenges are facing many teams? What structure should have an effective team? These and other questions are discussed in this episode.
+
+
+Notes:
+- Async is a composable asynchronous I/O framework for Ruby based on nio4r and timers.
+
+Have any feedback? Send us an email at codeandbeyond@protonmail.com or leave a voice message on Anchor.
+
+---
+Music by Twisterium from Pixabay.
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1351</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[SEO (Search Engine Optimization) and software development]]></title>
+			<description><![CDATA[<p>To celebrate our 20th episode, Code &amp;&amp; Beyond welcomed its first-ever guest: Ana Hernández. She helped us explore the topic of search engine optimization or SEO, what software developers should be aware of, how SEO specialists work together with devs and more.</p>
+<p>Notes:<br>
+<br>
+- <a href="https://www.screamingfrog.co.uk/seo-spider/" target="_blank"><strong>Screaming Frog</strong></a> is a website crawler that helps you improve onsite SEO by extracting data &amp; auditing for common SEO issues.<br>
+- <a href="https://schema.org/" target="_blank"><strong>Schema.org</strong></a> is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.<br>
+- <a href="https://web.dev/vitals/" target="_blank"><strong>Core Web Vitals</strong></a> is an initiative by Google to provide unified guidance for quality signals that are essential to delivering a great user experience on the web.<br>
+- <a href="https://ahrefs.com/" target="_blank"><strong>Ahrefs</strong></a> is an All-in-one SEO toolset.<br>
+- <a href="https://www.semrush.com/" target="_blank"><strong>Semrush</strong></a> is a platform for SEO, content marketing, competitor research, PPC and social media marketing</p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by Twisterium from </em><a href="https://pixabay.com/users/twisterium-20030970/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/SEO-Search-Engine-Optimization-and-software-development-e1a4q8v</link>
+			<guid isPermaLink="false">a4a7f989-acb4-4edc-b7db-319a65cfe16b</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Sat, 13 Nov 2021 10:08:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/43198175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-11%2F3eca6556-8f27-fb77-d82f-acea8d311e28.mp3" length="46205806" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;To celebrate our 20th episode, Code &amp;amp;&amp;amp; Beyond welcomed its first-ever guest: Ana Hernández. She helped us explore the topic of search engine optimization or SEO, what software developers should be aware of, how SEO specialists work together with devs and more.&lt;/p&gt;
+&lt;p&gt;Notes:&lt;br&gt;
+&lt;br&gt;
+- &lt;a href=&quot;https://www.screamingfrog.co.uk/seo-spider/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Screaming Frog&lt;/strong&gt;&lt;/a&gt; is a website crawler that helps you improve onsite SEO by extracting data &amp;amp; auditing for common SEO issues.&lt;br&gt;
+- &lt;a href=&quot;https://schema.org/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Schema.org&lt;/strong&gt;&lt;/a&gt; is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.&lt;br&gt;
+- &lt;a href=&quot;https://web.dev/vitals/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Core Web Vitals&lt;/strong&gt;&lt;/a&gt; is an initiative by Google to provide unified guidance for quality signals that are essential to delivering a great user experience on the web.&lt;br&gt;
+- &lt;a href=&quot;https://ahrefs.com/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Ahrefs&lt;/strong&gt;&lt;/a&gt; is an All-in-one SEO toolset.&lt;br&gt;
+- &lt;a href=&quot;https://www.semrush.com/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Semrush&lt;/strong&gt;&lt;/a&gt; is a platform for SEO, content marketing, competitor research, PPC and social media marketing&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by Twisterium from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/users/twisterium-20030970/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2886</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Work under pressure]]></title>
+			<description><![CDATA[<p>Just like Freddie and David say, no man asks for pressure. &nbsp;There is no denying that working under pressure with an upcoming deadline in sight is stressful. However, can it&nbsp;also be useful? Perhaps the stress can help push you forward towards the finish line of a&nbsp;project? The truth is that there is no one answer, it all depends on the situation.</p>
+<p>In this episode of&nbsp;Code &nbsp;&amp;&amp; Beyond, Pablo and Alex explore different types of pressure while working in software development projects, including the accountability that comes from building in public and the relief of getting rewards for achievements.</p>
+<p>Notes:<br>
+<br>
+- <a href="https://grpc-ecosystem.github.io/grpc-gateway/"><strong>gRPC-Gateway</strong></a><br>
+- <a href="https://www.buildinpublic.xyz/what-is-build-in-public"><strong>Building in public</strong></a><br>
+- <a href="https://www.imdb.com/title/tt15392100/"><strong>The Billion Dollar Code</strong></a></p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by Asepirawan20 from </em><a href="https://pixabay.com/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Work-under-pressure-e198cot</link>
+			<guid isPermaLink="false">f559a184-73be-4077-bc02-75cbb1e9663b</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Tue, 26 Oct 2021 07:34:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/42266845/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-24%2Fd68502aa-ed88-a480-fcc7-2b0f0de08fa0.mp3" length="16721580" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Just like Freddie and David say, no man asks for pressure. &amp;nbsp;There is no denying that working under pressure with an upcoming deadline in sight is stressful. However, can it&amp;nbsp;also be useful? Perhaps the stress can help push you forward towards the finish line of a&amp;nbsp;project? The truth is that there is no one answer, it all depends on the situation.&lt;/p&gt;
+&lt;p&gt;In this episode of&amp;nbsp;Code &amp;nbsp;&amp;amp;&amp;amp; Beyond, Pablo and Alex explore different types of pressure while working in software development projects, including the accountability that comes from building in public and the relief of getting rewards for achievements.&lt;/p&gt;
+&lt;p&gt;Notes:&lt;br&gt;
+&lt;br&gt;
+- &lt;a href=&quot;https://grpc-ecosystem.github.io/grpc-gateway/&quot;&gt;&lt;strong&gt;gRPC-Gateway&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://www.buildinpublic.xyz/what-is-build-in-public&quot;&gt;&lt;strong&gt;Building in public&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://www.imdb.com/title/tt15392100/&quot;&gt;&lt;strong&gt;The Billion Dollar Code&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1036</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Productivity tools: Focus]]></title>
+			<description><![CDATA[<p>In this episode of Code &amp;&amp; Beyond, Pablo and Alex share their best tips and tricks to stay focused on the task at hand. Listen as they recount their experiences and discuss focus tools like the Pomodoro Technique, meditation, and even crazy time-tracking in great detail.</p>
+<p>Notes:<br>
+<br>
+- <a href="https://blog.immersed.team/working-from-orbit-39bf95a6d385"><strong>"Working from orbit"</strong></a><br>
+- <a href="https://www.stayinsession.com/"><strong>Session</strong></a> helps you focus and be more mindful by blocking distractions and tracking your progress.<br>
+- <a href="https://francescocirillo.com/pages/pomodoro-technique"><strong>The Pomodoro® Technique</strong></a><br>
+- <a href="https://www.headspace.com/"><strong>Headspace</strong></a></p>
+<p>Any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by Asepirawan20 from </em><a href="https://pixabay.com/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Productivity-tools-Focus-e18t7or</link>
+			<guid isPermaLink="false">e6969c49-1794-49a8-b453-5482a8017b11</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Mon, 18 Oct 2021 08:14:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/41901275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-17%2Fcf0a8bac-8b94-b7b4-017c-d0c976ecb454.mp3" length="28718824" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of Code &amp;amp;&amp;amp; Beyond, Pablo and Alex share their best tips and tricks to stay focused on the task at hand. Listen as they recount their experiences and discuss focus tools like the Pomodoro Technique, meditation, and even crazy time-tracking in great detail.&lt;/p&gt;
+&lt;p&gt;Notes:&lt;br&gt;
+&lt;br&gt;
+- &lt;a href=&quot;https://blog.immersed.team/working-from-orbit-39bf95a6d385&quot;&gt;&lt;strong&gt;&quot;Working from orbit&quot;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://www.stayinsession.com/&quot;&gt;&lt;strong&gt;Session&lt;/strong&gt;&lt;/a&gt; helps you focus and be more mindful by blocking distractions and tracking your progress.&lt;br&gt;
+- &lt;a href=&quot;https://francescocirillo.com/pages/pomodoro-technique&quot;&gt;&lt;strong&gt;The Pomodoro® Technique&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://www.headspace.com/&quot;&gt;&lt;strong&gt;Headspace&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1786</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Test-driven development]]></title>
+			<description><![CDATA[<p>Writing tests is like flossing your teeth: everyone agrees it's great &nbsp;for your health, but not everyone does it right (or even at all). Nobody &nbsp;denies that it can sometimes be tricky. It requires time, a good &nbsp;understanding of the context, and access to the right tools. In this &nbsp;episode of&nbsp;Code &amp;&amp; Beyond, Pablo and Alex delve deep into the &nbsp;topic of testing in software development, discussing not only why and &nbsp;how, but also common mistakes, and solutions. Let's see how it goes 😃</p>
+<p>Notes:</p>
+<p>- Armada is a science fiction novel by Ernest Cline.</p>
+<p>- Dune is a 1965 science-fiction novel by American author Frank Herbert.</p>
+<p>Have any feedback? Send us an email at codeandbeyond@protonmail.com or leave a voice message on Anchor.</p>
+<p>--- Music by Asepirawan20 from Pixabay.</p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Test-driven-development-e18dkuv</link>
+			<guid isPermaLink="false">84333b2f-9b63-4c2a-8ab1-b1c7f1644630</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Mon, 11 Oct 2021 10:22:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/41390495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-6%2F26941514-821d-87da-c3a6-60d34d06252d.mp3" length="27931093" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Writing tests is like flossing your teeth: everyone agrees it&apos;s great &amp;nbsp;for your health, but not everyone does it right (or even at all). Nobody &amp;nbsp;denies that it can sometimes be tricky. It requires time, a good &amp;nbsp;understanding of the context, and access to the right tools. In this &amp;nbsp;episode of&amp;nbsp;Code &amp;amp;&amp;amp; Beyond, Pablo and Alex delve deep into the &amp;nbsp;topic of testing in software development, discussing not only why and &amp;nbsp;how, but also common mistakes, and solutions. Let&apos;s see how it goes 😃&lt;/p&gt;
+&lt;p&gt;Notes:&lt;/p&gt;
+&lt;p&gt;- Armada is a science fiction novel by Ernest Cline.&lt;/p&gt;
+&lt;p&gt;- Dune is a 1965 science-fiction novel by American author Frank Herbert.&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at codeandbeyond@protonmail.com or leave a voice message on Anchor.&lt;/p&gt;
+&lt;p&gt;--- Music by Asepirawan20 from Pixabay.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1737</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Productivity tools: Planning]]></title>
+			<description><![CDATA[<p>In this episode of Code &amp;&amp; Beyond, Pablo and Alex talk about &nbsp;their experiences with long and short-term planning as software &nbsp;developers. Also quite unexpectedly featuring some larger topics such as &nbsp;freedom and how life goals can become distorted once you start chasing someone else's dreams. &nbsp;</p>
+<p>Notes:<br>
+<br>
+- <a href="https://neovim.io/"><strong>NeoVim</strong></a><br>
+- <a href="https://github.com/nvim-telescope/telescope.nvim"><strong>telescope.nvim</strong></a> is a highly extendable fuzzy finder over lists. Built on the latest awesome features from neovim core. Telescope is centered around modularity, allowing for easy customization.</p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by Asepirawan20 from </em><a href="https://pixabay.com/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Productivity-tools-Planning-e182lc0</link>
+			<guid isPermaLink="false">48666760-a5e8-4a2a-994f-e4da3e9e1e00</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Thu, 30 Sep 2021 10:00:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/41030464/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-29%2Fd9a7b832-4cd4-8fba-892f-835fd283b038.mp3" length="18209131" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of Code &amp;amp;&amp;amp; Beyond, Pablo and Alex talk about &amp;nbsp;their experiences with long and short-term planning as software &amp;nbsp;developers. Also quite unexpectedly featuring some larger topics such as &amp;nbsp;freedom and how life goals can become distorted once you start chasing someone else&apos;s dreams. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Notes:&lt;br&gt;
+&lt;br&gt;
+- &lt;a href=&quot;https://neovim.io/&quot;&gt;&lt;strong&gt;NeoVim&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://github.com/nvim-telescope/telescope.nvim&quot;&gt;&lt;strong&gt;telescope.nvim&lt;/strong&gt;&lt;/a&gt; is a highly extendable fuzzy finder over lists. Built on the latest awesome features from neovim core. Telescope is centered around modularity, allowing for easy customization.&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1129</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Monolith vs. microservice]]></title>
+			<description><![CDATA[On Code && Beyond, we recently touched  on the hot topic of relational and NoSQL databases. To continue with the  trendy themes, this time Alex and Pablo discuss monolith and  microservice architectures.
+What are the cons and pros of these approaches? Does it make sense to start with microservices in a greenfield project?
+Notes:
+
+- Syncthing is a continuous file synchronization program.
+- NeoVim 0.5+ (Lua stuff).
+- Practical Microservices.  
+
+Have any feedback? Send us an email at codeandbeyond@protonmail.com or leave a voice message on Anchor.
+---
+Music by Asepirawan20 from Pixabay.
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Monolith-vs--microservice-e17juhg</link>
+			<guid isPermaLink="false">fbc53303-b500-42a7-be96-1e2c1a41a709</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Mon, 20 Sep 2021 20:44:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/40548336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-20%2Fd04be86c-2959-53c6-9474-8cc5b7f95857.mp3" length="23930744" type="audio/mpeg"/>
+			<itunes:summary>On Code &amp;&amp; Beyond, we recently touched  on the hot topic of relational and NoSQL databases. To continue with the  trendy themes, this time Alex and Pablo discuss monolith and  microservice architectures.
+What are the cons and pros of these approaches? Does it make sense to start with microservices in a greenfield project?
+Notes:
+
+- Syncthing is a continuous file synchronization program.
+- NeoVim 0.5+ (Lua stuff).
+- Practical Microservices.  
+
+Have any feedback? Send us an email at codeandbeyond@protonmail.com or leave a voice message on Anchor.
+---
+Music by Asepirawan20 from Pixabay.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1487</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Productivity tools: Tasks management]]></title>
+			<description><![CDATA[<p>In the 14th episode of Code &amp;&amp; Beyond, Pablo and Alex talk about &nbsp;task&nbsp;management. Listen to them discuss their experiences with GTD &nbsp;(Gettings Things Done) with Things and Todoist, Kanban with Trello, pen and paper with Bullet Journal, and Passion Planner. &nbsp;</p>
+<p>Notes:<br>
+<br>
+- <a href="https://passionplanner.com/"><strong>Passion Planner</strong></a><br>
+- <a href="https://www.goodnotes.com/"><strong>Good notes</strong></a><br>
+- <a href="https://bulletjournal.com/"><strong>Bullet Journal</strong></a><br>
+- <a href="https://www.notion.so"><strong>Notion</strong></a><br>
+- <a href="https://trello.com"><strong>Trello</strong></a><br>
+- <a href="https://todoist.com/"><strong>Todoist</strong></a><br>
+- <a href="https://dynalist.io/"><strong>Dynalist</strong></a><br>
+- <a href="https://culturedcode.com/things/"><strong>Things</strong></a><br>
+- <a href="https://nirvanahq.com/"><strong>Nirvana</strong></a><br>
+</p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by Asepirawan20 from </em><a href="https://pixabay.com/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Productivity-tools-Tasks-management-e178tkj</link>
+			<guid isPermaLink="false">44f6b7d9-2b2e-4c08-9b80-823506059d9e</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Mon, 13 Sep 2021 08:31:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/40186963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-12%2F4bcd47df-6011-cb76-1ee0-fa0bb35d3b70.mp3" length="29982651" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In the 14th episode of Code &amp;amp;&amp;amp; Beyond, Pablo and Alex talk about &amp;nbsp;task&amp;nbsp;management. Listen to them discuss their experiences with GTD &amp;nbsp;(Gettings Things Done) with Things and Todoist, Kanban with Trello, pen and paper with Bullet Journal, and Passion Planner. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Notes:&lt;br&gt;
+&lt;br&gt;
+- &lt;a href=&quot;https://passionplanner.com/&quot;&gt;&lt;strong&gt;Passion Planner&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://www.goodnotes.com/&quot;&gt;&lt;strong&gt;Good notes&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://bulletjournal.com/&quot;&gt;&lt;strong&gt;Bullet Journal&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://www.notion.so&quot;&gt;&lt;strong&gt;Notion&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://trello.com&quot;&gt;&lt;strong&gt;Trello&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://todoist.com/&quot;&gt;&lt;strong&gt;Todoist&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://dynalist.io/&quot;&gt;&lt;strong&gt;Dynalist&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://culturedcode.com/things/&quot;&gt;&lt;strong&gt;Things&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://nirvanahq.com/&quot;&gt;&lt;strong&gt;Nirvana&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1865</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Our stories]]></title>
+			<description><![CDATA[In this special episode, Pablo and Alex talk about themselves.  Learn about their life, their career, their hobbies, and much more.  Find out things like:
+
+ How we decided to become software developers
+ How Pablo got a job in London speaking very little English
+ How a book changed Alex's whole life
+
+All of this and more in the 13th episode of Code && Beyond.
+Have any feedback? Send us an email at codeandbeyond@protonmail.com or leave a voice message on Anchor.
+---
+Music by John Yasut from Pixabay.
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Our-stories-e16usd1</link>
+			<guid isPermaLink="false">442dc519-89bf-4840-90bb-ab4694941c69</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Mon, 06 Sep 2021 14:11:52 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/39858017/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-5%2F560a285a-b538-59ef-38c9-62e0605cab00.mp3" length="32912418" type="audio/mpeg"/>
+			<itunes:summary>In this special episode, Pablo and Alex talk about themselves.  Learn about their life, their career, their hobbies, and much more.  Find out things like:
+
+ How we decided to become software developers
+ How Pablo got a job in London speaking very little English
+ How a book changed Alex&apos;s whole life
+
+All of this and more in the 13th episode of Code &amp;&amp; Beyond.
+Have any feedback? Send us an email at codeandbeyond@protonmail.com or leave a voice message on Anchor.
+---
+Music by John Yasut from Pixabay.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2048</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/15473998/15473998-1623563491359-450a97e1db3d7.jpg"/>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Relational databases vs NoSQL]]></title>
+			<description><![CDATA[<p>In the twelfth episode of Code &amp;&amp; Beyond, software developers &nbsp;Pablo and Alex touch on the topic of databases. What's the difference &nbsp;between relational and NoSQL databases? What would be a use case for a &nbsp;graph database? Which database type might be better to choose for a &nbsp;greenfield project?</p>
+<p>Notes:<br>
+<br>
+- <a href="https://aws.amazon.com/dynamodb/"><strong>Amazon DynamoDB</strong></a> - fast and flexible NoSQL database service for any scale.<br>
+- <a href="https://www.youtube.com/watch?v=HaEPXoXVf2k">AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)</a><br>
+- <a href="https://sqlite.org/index.html"><strong>SQLite</strong></a> is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.<br>
+</p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by John Yasut from </em><a href="https://pixabay.com/users/john_sib-15655402"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Relational-databases-vs-NoSQL-e16ke0u</link>
+			<guid isPermaLink="false">74577e03-fcd7-43b1-adbb-31cdef2d750b</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Mon, 30 Aug 2021 12:57:26 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/39515614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-29%2F16644619-0bf0-4ec0-4961-67ffc8863406.mp3" length="27252608" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In the twelfth episode of Code &amp;amp;&amp;amp; Beyond, software developers &amp;nbsp;Pablo and Alex touch on the topic of databases. What&apos;s the difference &amp;nbsp;between relational and NoSQL databases? What would be a use case for a &amp;nbsp;graph database? Which database type might be better to choose for a &amp;nbsp;greenfield project?&lt;/p&gt;
+&lt;p&gt;Notes:&lt;br&gt;
+&lt;br&gt;
+- &lt;a href=&quot;https://aws.amazon.com/dynamodb/&quot;&gt;&lt;strong&gt;Amazon DynamoDB&lt;/strong&gt;&lt;/a&gt; - fast and flexible NoSQL database service for any scale.&lt;br&gt;
+- &lt;a href=&quot;https://www.youtube.com/watch?v=HaEPXoXVf2k&quot;&gt;AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&quot;https://sqlite.org/index.html&quot;&gt;&lt;strong&gt;SQLite&lt;/strong&gt;&lt;/a&gt; is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by John Yasut from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/users/john_sib-15655402&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1694</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Productivity tools: Note-taking]]></title>
+			<description><![CDATA[The first step on the journey to being more productive is to clear your head using a technique called "brain dump". The idea is simple: write down your ideas, tasks, and anything else that is taking up space in your brain, either as digital or physical notes. In today's episode of Code && Beyond, Pablo and Alex share how they organize their notes and which note-taking tools they use. From Evernote and Microsoft OneNote to plain-text files in Markdown format, Obsidian, and more.
+Notes:
+
+- Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
+- Notion is a all-in-one workspace.
+- Bring! The simplest shopping list for sharing.
+- did.txt file
+- Microsoft OneNote is a one cross-functional notebook for all your notetaking needs.
+Have any feedback? Send us an email at codeandbeyond@protonmail.com or leave a voice message on Anchor.
+---
+Music by John Yasut from Pixabay.
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Productivity-tools-Note-taking-e169ehd</link>
+			<guid isPermaLink="false">9ee0f46a-1d53-4a3b-985e-909610478eb1</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Sun, 22 Aug 2021 16:38:06 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/39155693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-22%2F149ea543-9f91-6927-d04e-684cf53a7519.mp3" length="30491488" type="audio/mpeg"/>
+			<itunes:summary>The first step on the journey to being more productive is to clear your head using a technique called &quot;brain dump&quot;. The idea is simple: write down your ideas, tasks, and anything else that is taking up space in your brain, either as digital or physical notes. In today&apos;s episode of Code &amp;&amp; Beyond, Pablo and Alex share how they organize their notes and which note-taking tools they use. From Evernote and Microsoft OneNote to plain-text files in Markdown format, Obsidian, and more.
+Notes:
+
+- Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
+- Notion is a all-in-one workspace.
+- Bring! The simplest shopping list for sharing.
+- did.txt file
+- Microsoft OneNote is a one cross-functional notebook for all your notetaking needs.
+Have any feedback? Send us an email at codeandbeyond@protonmail.com or leave a voice message on Anchor.
+---
+Music by John Yasut from Pixabay.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1897</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Career progression]]></title>
+			<description><![CDATA[<p>What changes when you get a new job title? Does it make sense to climb &nbsp;the career ladder nowadays? Pablo and Alex try to answer these questions &nbsp;on episode tenth of Code &amp;&amp; Beyond as they discuss the topic of &nbsp;career progression and talk about professional and personal growth in &nbsp;the field of software development.</p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by Asepirawan20 from </em><a href="https://pixabay.com/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Career-progression-e160ao5</link>
+			<guid isPermaLink="false">a57b794e-665f-4078-b974-32c35bff1017</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Mon, 16 Aug 2021 17:19:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/38856901/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-16%2Fa9cf17d1-4c82-ca51-85f8-3043f23d3cc5.mp3" length="22214557" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;What changes when you get a new job title? Does it make sense to climb &amp;nbsp;the career ladder nowadays? Pablo and Alex try to answer these questions &amp;nbsp;on episode tenth of Code &amp;amp;&amp;amp; Beyond as they discuss the topic of &amp;nbsp;career progression and talk about professional and personal growth in &amp;nbsp;the field of software development.&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1379</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Leaving the comfort zone]]></title>
+			<description><![CDATA[<p>In the episode, Pablo and Alex discuss the importance of going out of the comfort zone. Why is it hard to do? How to overcome the fear of leaving the zone of comfort and even extend its borders? All of that and many more with the usual stories from personal experience.</p>
+
+<p>
+Notes:<br><br>
+<a href="https://en.wikipedia.org/wiki/Ready_Player_One"><strong>Ready Player One</strong></a> is a 2011 science fiction novel, and the debut novel of American author Ernest Cline. The story, set in a dystopia in 2045, follows protagonist Wade Watts on his search for an Easter egg in a worldwide virtual reality game.<br>
+</p>
+
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>
+---<br>
+<em>Music by Asepirawan20 from <a href="https://pixabay.com/">Pixabay</a>.</em>
+</p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Leaving-the-comfort-zone-e15kfgt</link>
+			<guid isPermaLink="false">99361d10-d538-4245-a0e5-86a994ce0b81</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Sun, 08 Aug 2021 17:14:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/38468573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-8%2F31130573-571c-224a-f62a-4557a3ed9fdd.mp3" length="22613318" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In the episode, Pablo and Alex discuss the importance of going out of the comfort zone. Why is it hard to do? How to overcome the fear of leaving the zone of comfort and even extend its borders? All of that and many more with the usual stories from personal experience.&lt;/p&gt;
+
+&lt;p&gt;
+Notes:&lt;br&gt;&lt;br&gt;
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Ready_Player_One&quot;&gt;&lt;strong&gt;Ready Player One&lt;/strong&gt;&lt;/a&gt; is a 2011 science fiction novel, and the debut novel of American author Ernest Cline. The story, set in a dystopia in 2045, follows protagonist Wade Watts on his search for an Easter egg in a worldwide virtual reality game.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;a href=&quot;https://pixabay.com/&quot;&gt;Pixabay&lt;/a&gt;.&lt;/em&gt;
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1404</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Remote work]]></title>
+			<description><![CDATA[<p>In this week's episode, we talk about the pros and cons of remote work. Featuring personal stories (including our experience with Google Wave) tools, tips on how to set up a home office, be more productive and communicate more efficiently, and more. Plus, we touch on the tricky question of remote salaries.</p>
+<p>Notes:<br>
+<br>
+- <a href="https://tuple.app/"><strong>Tuple</strong></a>: the best remote pair programming app on macOS<br>
+- <a href="https://tmate.io/"><strong>tmate</strong></a>: instant terminal sharing<br>
+- <a href="https://en.wikipedia.org/wiki/Google_Wave"><strong>Google Wave</strong></a><strong>:</strong> software framework for real-time collaborative editing online<br>
+</p>
+<p>Got any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>---<br>
+<em>Music by Asepirawan20 from </em><a href="https://pixabay.com/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Remote-work-e157gk5</link>
+			<guid isPermaLink="false">b09359ab-dc41-4d5b-9029-696261fd02ba</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Mon, 02 Aug 2021 05:51:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/38043717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-30%2F05e0b7ba-d221-7f9c-81b1-b077d3aa7c93.mp3" length="24975020" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this week&apos;s episode, we talk about the pros and cons of remote work. Featuring personal stories (including our experience with Google Wave) tools, tips on how to set up a home office, be more productive and communicate more efficiently, and more. Plus, we touch on the tricky question of remote salaries.&lt;/p&gt;
+&lt;p&gt;Notes:&lt;br&gt;
+&lt;br&gt;
+- &lt;a href=&quot;https://tuple.app/&quot;&gt;&lt;strong&gt;Tuple&lt;/strong&gt;&lt;/a&gt;: the best remote pair programming app on macOS&lt;br&gt;
+- &lt;a href=&quot;https://tmate.io/&quot;&gt;&lt;strong&gt;tmate&lt;/strong&gt;&lt;/a&gt;: instant terminal sharing&lt;br&gt;
+- &lt;a href=&quot;https://en.wikipedia.org/wiki/Google_Wave&quot;&gt;&lt;strong&gt;Google Wave&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;:&lt;/strong&gt; software framework for real-time collaborative editing online&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Got any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1552</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Experiments]]></title>
+			<description><![CDATA[<p>This episode is all about the topic of experimentation and exploration. Who doesn't like to try a new database technology, play with a new framework, or write "Hello, world" in a new programming language? It's always exciting to play with new shiny things. But how to keep everything under control and get better results in the end?</p>
+
+<p>Alex and Pablo talk about their personal experience and share some tips and tricks on how to get even more from experiments and hack projects.</p>
+
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>
+---<br>
+<em>Music by Asepirawan20 from <a href="https://pixabay.com/">Pixabay</a>.</em>
+</p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Experiments-e14vull</link>
+			<guid isPermaLink="false">35ea3481-14ed-4e1a-9a9f-6c5e73ba1e7c</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Sun, 25 Jul 2021 18:47:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/37795957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-25%2Faac9196f-4da2-b139-5491-720344321ab1.mp3" length="21501096" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This episode is all about the topic of experimentation and exploration. Who doesn&apos;t like to try a new database technology, play with a new framework, or write &quot;Hello, world&quot; in a new programming language? It&apos;s always exciting to play with new shiny things. But how to keep everything under control and get better results in the end?&lt;/p&gt;
+
+&lt;p&gt;Alex and Pablo talk about their personal experience and share some tips and tricks on how to get even more from experiments and hack projects.&lt;/p&gt;
+
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;a href=&quot;https://pixabay.com/&quot;&gt;Pixabay&lt;/a&gt;.&lt;/em&gt;
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1335</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Technical interviews]]></title>
+			<description><![CDATA[<p>In this episode, Pablo and Alex touch on the topic of technical interviews. They share personal experiences and opinions on different aspects of conducting an interview and being interviewed.</p>
+
+<p>Code challenges! When and why they might be helpful. What's the true purpose of a code challenge?</p>
+
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>
+---<br>
+<em>Music by Asepirawan20 from <a href="https://pixabay.com/">Pixabay</a>.</em>
+</p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Technical-interviews-e14le4c</link>
+			<guid isPermaLink="false">dd5f18d3-fddf-401b-afdc-cb8f903c76ae</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Mon, 19 Jul 2021 05:30:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/37451340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-18%2Fc2b35ffe-1b51-a268-d680-28456e84f7a8.mp3" length="26254656" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, Pablo and Alex touch on the topic of technical interviews. They share personal experiences and opinions on different aspects of conducting an interview and being interviewed.&lt;/p&gt;
+
+&lt;p&gt;Code challenges! When and why they might be helpful. What&apos;s the true purpose of a code challenge?&lt;/p&gt;
+
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;a href=&quot;https://pixabay.com/&quot;&gt;Pixabay&lt;/a&gt;.&lt;/em&gt;
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1632</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Failures, successes, and learned lessons]]></title>
+			<description><![CDATA[<p>In this episode, Alex and Pablo talk about epic failures, life-changing successes, and lessons derived from them.</p>
+
+<p>Four very different real-life stories.</p>
+
+<p>
+Notes:<br><br>
+- <a href="https://plantuml.com/"><strong>PlantUML</strong></a> is an open-source tool allowing users to create diagrams from a plain text language.<br>
+- <a href="https://insomnia.rest/products/insomnia"><strong>Insomnia</strong></a> - the collaborative API client.<br>
+</p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>
+---<br>
+<em>Music by Asepirawan20 from <a href="https://pixabay.com/">Pixabay</a>.</em>
+</p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Failures--successes--and-learned-lessons-e149qnv</link>
+			<guid isPermaLink="false">176d5c91-5303-4b39-ab45-a49e6e6f89c4</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Sun, 11 Jul 2021 22:05:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/37071039/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-11%2F345407d8-f58a-48c1-02c4-a6fe4f1c66b8.mp3" length="20374716" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, Alex and Pablo talk about epic failures, life-changing successes, and lessons derived from them.&lt;/p&gt;
+
+&lt;p&gt;Four very different real-life stories.&lt;/p&gt;
+
+&lt;p&gt;
+Notes:&lt;br&gt;&lt;br&gt;
+- &lt;a href=&quot;https://plantuml.com/&quot;&gt;&lt;strong&gt;PlantUML&lt;/strong&gt;&lt;/a&gt; is an open-source tool allowing users to create diagrams from a plain text language.&lt;br&gt;
+- &lt;a href=&quot;https://insomnia.rest/products/insomnia&quot;&gt;&lt;strong&gt;Insomnia&lt;/strong&gt;&lt;/a&gt; - the collaborative API client.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;a href=&quot;https://pixabay.com/&quot;&gt;Pixabay&lt;/a&gt;.&lt;/em&gt;
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1265</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The API Design-First philosophy]]></title>
+			<description><![CDATA[<p>This time Pablo and Alex touch on the topic of the HTTP API design. They share a couple of stories from personal experience and explain what The API Design-First approach is and when it might make sense to follow it.</p>
+
+<p>
+Notes:<br><br>
+- <a href="https://stoplight.io/"><strong>Stoplight</strong></a>: develop quality APIs with collaborative API-first design.<br>
+- <a href="https://github.com/basecamp/marginalia"><strong>marginalia Ruby gem</strong></a>: attach comments to your ActiveRecord queries.<br>
+- <a href="https://swagger.io/specification/"><strong>OpenAPI</strong></a> defines a standard, language-agnostic interface to RESTful APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection.<br>
+- <a href="https://www.asyncapi.com/"><strong>AsyncAPI</strong></a>: open source tools to easily build and maintain your event-driven architecture.<br>
+- <a href="https://open-rpc.org/"><strong>OpenRPC</strong></a>: design and document APIs using JSON-RPC 2.0 and open source tools.<br>
+- <a href="https://monodraw.helftone.com/"><strong>Monodraw</strong></a>: powerful ASCII art editor designed for the Mac.<br>
+</p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>
+---<br>
+<em>Music by Asepirawan20 from <a href="https://pixabay.com/">Pixabay</a>.</em>
+</p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/The-API-Design-First-philosophy-e13t6ki</link>
+			<guid isPermaLink="false">c30f9548-8fdc-4c25-b5ab-6ad5183f307c</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Sun, 04 Jul 2021 13:17:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/36657234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-4%2Fd13d8140-70b4-3664-4f49-a6a6e226c2fb.mp3" length="22515318" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This time Pablo and Alex touch on the topic of the HTTP API design. They share a couple of stories from personal experience and explain what The API Design-First approach is and when it might make sense to follow it.&lt;/p&gt;
+
+&lt;p&gt;
+Notes:&lt;br&gt;&lt;br&gt;
+- &lt;a href=&quot;https://stoplight.io/&quot;&gt;&lt;strong&gt;Stoplight&lt;/strong&gt;&lt;/a&gt;: develop quality APIs with collaborative API-first design.&lt;br&gt;
+- &lt;a href=&quot;https://github.com/basecamp/marginalia&quot;&gt;&lt;strong&gt;marginalia Ruby gem&lt;/strong&gt;&lt;/a&gt;: attach comments to your ActiveRecord queries.&lt;br&gt;
+- &lt;a href=&quot;https://swagger.io/specification/&quot;&gt;&lt;strong&gt;OpenAPI&lt;/strong&gt;&lt;/a&gt; defines a standard, language-agnostic interface to RESTful APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection.&lt;br&gt;
+- &lt;a href=&quot;https://www.asyncapi.com/&quot;&gt;&lt;strong&gt;AsyncAPI&lt;/strong&gt;&lt;/a&gt;: open source tools to easily build and maintain your event-driven architecture.&lt;br&gt;
+- &lt;a href=&quot;https://open-rpc.org/&quot;&gt;&lt;strong&gt;OpenRPC&lt;/strong&gt;&lt;/a&gt;: design and document APIs using JSON-RPC 2.0 and open source tools.&lt;br&gt;
+- &lt;a href=&quot;https://monodraw.helftone.com/&quot;&gt;&lt;strong&gt;Monodraw&lt;/strong&gt;&lt;/a&gt;: powerful ASCII art editor designed for the Mac.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;a href=&quot;https://pixabay.com/&quot;&gt;Pixabay&lt;/a&gt;.&lt;/em&gt;
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1398</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Productivity methods and hacks]]></title>
+			<description><![CDATA[<p>Productivity is one of the evergreen topics. But what does it even mean to be productive? How to tame procrastination? Does that make sense to worry about that at all?</p>
+
+<p>In this episode, Pablo and Alex explore these and other questions, share their personal stories of becoming more productive at work and in their personal life.</p>
+
+<p>
+Notes:<br><br>
+- <a href="https://obsidian.md/"><strong>Obsidian</strong></a> is a powerful knowledge base that works on top ofa local folder of plain text Markdown files.<br>
+- <a href="https://github.com/tomnomnom/gron"><strong>gron</strong></a> transforms JSON into discrete assignments to make it easier to grep for what you want.<br>
+- <a href="https://en.wikipedia.org/wiki/Luca_(2021_film)"><strong>Luca</strong></a> (film)<br>
+- <a href="https://asdf-vm.com/"><strong>asdf</strong></a> is a CLI tool that can manage multiple language runtime versions on a per-project basis.<br>
+- <a href="http://maaslalani.com/slides/"><strong>Slides</strong></a> in your terminal.<br>
+</p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>
+---<br>
+<em>Music by Asepirawan20 from <a href="https://pixabay.com/">Pixabay</a>.</em>
+</p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Productivity-methods-and-hacks-e13h944</link>
+			<guid isPermaLink="false">add31084-80e9-48cc-9060-017722fe20a0</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Sun, 27 Jun 2021 16:38:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/36266564/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-27%2F032d17f5-9004-540c-b158-0f9eb30a9038.mp3" length="29974794" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Productivity is one of the evergreen topics. But what does it even mean to be productive? How to tame procrastination? Does that make sense to worry about that at all?&lt;/p&gt;
+
+&lt;p&gt;In this episode, Pablo and Alex explore these and other questions, share their personal stories of becoming more productive at work and in their personal life.&lt;/p&gt;
+
+&lt;p&gt;
+Notes:&lt;br&gt;&lt;br&gt;
+- &lt;a href=&quot;https://obsidian.md/&quot;&gt;&lt;strong&gt;Obsidian&lt;/strong&gt;&lt;/a&gt; is a powerful knowledge base that works on top ofa local folder of plain text Markdown files.&lt;br&gt;
+- &lt;a href=&quot;https://github.com/tomnomnom/gron&quot;&gt;&lt;strong&gt;gron&lt;/strong&gt;&lt;/a&gt; transforms JSON into discrete assignments to make it easier to grep for what you want.&lt;br&gt;
+- &lt;a href=&quot;https://en.wikipedia.org/wiki/Luca_(2021_film)&quot;&gt;&lt;strong&gt;Luca&lt;/strong&gt;&lt;/a&gt; (film)&lt;br&gt;
+- &lt;a href=&quot;https://asdf-vm.com/&quot;&gt;&lt;strong&gt;asdf&lt;/strong&gt;&lt;/a&gt; is a CLI tool that can manage multiple language runtime versions on a per-project basis.&lt;br&gt;
+- &lt;a href=&quot;http://maaslalani.com/slides/&quot;&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/a&gt; in your terminal.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;a href=&quot;https://pixabay.com/&quot;&gt;Pixabay&lt;/a&gt;.&lt;/em&gt;
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1864</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Vim for life?]]></title>
+			<description><![CDATA[<p>Vim is a text editor. It's the same for everyone, and yet everyone has a different story with it.</p>
+<p>In this episode Pablo and Alex share their vim-stories, explain why and what they like about the editor, what they wish to see as improvements, and more.</p>
+<p>
+Notes:<br><br>
+- <a href="https://hanamirb.org/"><strong>Hanami</strong></a> is a modern web framework for Ruby.<br>
+- <a href="https://dry-rb.org/"><strong>dry-rb</strong></a> is a collection of next-generation Ruby libraries.<br>
+- <a href="https://github.com/tpope/"><strong>Tim Pope</strong></a> on GitHub.<br>
+- <a href="https://neovim.io/"><strong>NeoVim</strong></a> - hyperextensible Vim-based text editor.<br>
+- <a href="https://usedevbook.com/"><strong>Devbook</strong></a> is a search engine for developers that helps them to find the resources they need and answer their questions faster.</p>
+<p>Have any feedback? Send us an email at <a href="mailto:codeandbeyond@protonmail.com">codeandbeyond@protonmail.com</a> or leave a voice message on <a href="https://anchor.fm/codeandbeyond">Anchor</a>.</p>
+<p>
+---<br>
+<em>Music by Asepirawan20 from </em><a href="https://pixabay.com/"><em>Pixabay</em></a><em>.</em></p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Vim-for-life-e133qbf</link>
+			<guid isPermaLink="false">23db49d5-c078-4ab1-b2ee-462e54519747</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Sun, 20 Jun 2021 16:19:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/35825455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-20%2F96d16edd-f0be-0293-0531-62d5d7c363ee.mp3" length="42846136" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Vim is a text editor. It&apos;s the same for everyone, and yet everyone has a different story with it.&lt;/p&gt;
+&lt;p&gt;In this episode Pablo and Alex share their vim-stories, explain why and what they like about the editor, what they wish to see as improvements, and more.&lt;/p&gt;
+&lt;p&gt;
+Notes:&lt;br&gt;&lt;br&gt;
+- &lt;a href=&quot;https://hanamirb.org/&quot;&gt;&lt;strong&gt;Hanami&lt;/strong&gt;&lt;/a&gt; is a modern web framework for Ruby.&lt;br&gt;
+- &lt;a href=&quot;https://dry-rb.org/&quot;&gt;&lt;strong&gt;dry-rb&lt;/strong&gt;&lt;/a&gt; is a collection of next-generation Ruby libraries.&lt;br&gt;
+- &lt;a href=&quot;https://github.com/tpope/&quot;&gt;&lt;strong&gt;Tim Pope&lt;/strong&gt;&lt;/a&gt; on GitHub.&lt;br&gt;
+- &lt;a href=&quot;https://neovim.io/&quot;&gt;&lt;strong&gt;NeoVim&lt;/strong&gt;&lt;/a&gt; - hyperextensible Vim-based text editor.&lt;br&gt;
+- &lt;a href=&quot;https://usedevbook.com/&quot;&gt;&lt;strong&gt;Devbook&lt;/strong&gt;&lt;/a&gt; is a search engine for developers that helps them to find the resources they need and answer their questions faster.&lt;/p&gt;
+&lt;p&gt;Have any feedback? Send us an email at &lt;a href=&quot;mailto:codeandbeyond@protonmail.com&quot;&gt;codeandbeyond@protonmail.com&lt;/a&gt; or leave a voice message on &lt;a href=&quot;https://anchor.fm/codeandbeyond&quot;&gt;Anchor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;/em&gt;&lt;a href=&quot;https://pixabay.com/&quot;&gt;&lt;em&gt;Pixabay&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2669</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Heroes and mentors]]></title>
+			<description><![CDATA[<p>In the very first episode, Pablo and Alex talk about inspirational people and those who guide professional development. It's is about heroes, mentors, life influencers, and role models.</p>
+
+<p>
+Notes:<br><br>
+ - <strong><a href="https://en.wikipedia.org/wiki/Sandi_Metz">Sandi Metz</a></strong> is an American software engineer and author. She is the author of Practical Object-Oriented Design in Ruby.<br>
+ - <strong><a href="https://en.wikipedia.org/wiki/Robert_C._Martin">Robert Cecil Martin</a></strong>, colloquially called "Uncle Bob", is an American software engineer, instructor, and best-selling author.<br>
+ - <strong><a href="https://en.wikipedia.org/wiki/Adam_Savage">Adam Savage</a></strong> is an American special effects designer and fabricator, actor, educator, and television personality and producer, known as the former co-host of the Discovery Channel television series MythBusters and Unchained Reaction.<br>
+- <strong><a href="https://www.youtube.com/watch?v=98S4m-uZe9Y">Every Tool's a Hammer: Life Is What You Make It</a></strong>. "In this New York Times bestselling “imperative how-to for creativity” (Nick Offerman), Adam Savage—star of Discovery Channel’s Mythbusters—shares his golden rules of creativity, from finding inspiration to following through and successfully making your idea a reality." <a href="https://www.goodreads.com/book/show/43319933-every-tool-s-a-hammer">GoodReads</a><br>
+- <strong><a href="https://laurakampf.com/">Laura Kampf</a></strong> is a self-employed artist, designer, maker and creator who showcases her craftsmanship and DIY abilities on a self-titled YouTube channel.</p>
+
+<p>
+---<br>
+<em>Music by Asepirawan20 from <a href="https://pixabay.com/">Pixabay</a>.</p>
+]]></description>
+			<link>https://anchor.fm/codeandbeyond/episodes/Heroes-and-mentors-e12m2hs</link>
+			<guid isPermaLink="false">320bf466-e8b7-4011-a849-ae932bb0c96d</guid>
+			<dc:creator><![CDATA[Alexander Sulim and Pablo Vicente]]></dc:creator>
+			<pubDate>Sun, 13 Jun 2021 05:58:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5cd408f8/podcast/play/35375100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-13%2F66b898ed-68a9-5de5-4fad-e1f505ba056e.mp3" length="38866574" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In the very first episode, Pablo and Alex talk about inspirational people and those who guide professional development. It&apos;s is about heroes, mentors, life influencers, and role models.&lt;/p&gt;
+
+&lt;p&gt;
+Notes:&lt;br&gt;&lt;br&gt;
+ - &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Sandi_Metz&quot;&gt;Sandi Metz&lt;/a&gt;&lt;/strong&gt; is an American software engineer and author. She is the author of Practical Object-Oriented Design in Ruby.&lt;br&gt;
+ - &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Robert_C._Martin&quot;&gt;Robert Cecil Martin&lt;/a&gt;&lt;/strong&gt;, colloquially called &quot;Uncle Bob&quot;, is an American software engineer, instructor, and best-selling author.&lt;br&gt;
+ - &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Adam_Savage&quot;&gt;Adam Savage&lt;/a&gt;&lt;/strong&gt; is an American special effects designer and fabricator, actor, educator, and television personality and producer, known as the former co-host of the Discovery Channel television series MythBusters and Unchained Reaction.&lt;br&gt;
+- &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=98S4m-uZe9Y&quot;&gt;Every Tool&apos;s a Hammer: Life Is What You Make It&lt;/a&gt;&lt;/strong&gt;. &quot;In this New York Times bestselling “imperative how-to for creativity” (Nick Offerman), Adam Savage—star of Discovery Channel’s Mythbusters—shares his golden rules of creativity, from finding inspiration to following through and successfully making your idea a reality.&quot; &lt;a href=&quot;https://www.goodreads.com/book/show/43319933-every-tool-s-a-hammer&quot;&gt;GoodReads&lt;/a&gt;&lt;br&gt;
+- &lt;strong&gt;&lt;a href=&quot;https://laurakampf.com/&quot;&gt;Laura Kampf&lt;/a&gt;&lt;/strong&gt; is a self-employed artist, designer, maker and creator who showcases her craftsmanship and DIY abilities on a self-titled YouTube channel.&lt;/p&gt;
+
+&lt;p&gt;
+---&lt;br&gt;
+&lt;em&gt;Music by Asepirawan20 from &lt;a href=&quot;https://pixabay.com/&quot;&gt;Pixabay&lt;/a&gt;.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2420</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15473998/15473998-1623563495870-e7698f59e9546.jpg"/>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
